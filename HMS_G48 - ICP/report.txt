@@ -1,0 +1,5 @@
+REP-001|APP-001|DOC-001|PAT-001|Hypertension|Medication|Improved
+REP-002|APP-002|DOC-002|PAT-002|Diabetes|Insulin Therapy|Stable
+REP-003|APP-003|DOC-003|PAT-003|Diabetes|Pain Management|Recovering
+REP-004|APP-004|DOC-004|PAT-004|Depression|Therapy|Progressing
+REP-005|APP-005|DOC-005|PAT-005|Allergic Rhinitis|Antihistamines|Resolved

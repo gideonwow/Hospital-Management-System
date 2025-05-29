@@ -1,0 +1,5 @@
+PRE-001|APP-001|DOC-001|PAT-001|Ibuprofen|200mg|3 times a day|2024-06-11|2024-06-18
+PRE-002|APP-002|DOC-002|PAT-002|Amoxicillin|500mg|Once a day|2024-06-12|2024-06-19
+PRE-003|APP-003|DOC-003|PAT-003|Loratadine|10mg|Once daily|2024-06-13|2024-06-20
+PRE-004|APP-004|DOC-004|PAT-004|Omeprazole|20mg|Once daily before breakfast|2024-06-14|2024-06-21
+PRE-005|APP-005|DOC-005|PAT-005|Acetaminophen|500mg|As needed, up to 4 times a day|2024-06-15|2024-06-22

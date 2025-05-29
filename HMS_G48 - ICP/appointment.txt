@@ -1,0 +1,5 @@
+APP-001|DOC-001|PAT-001|2024-07-01|08:00|09:00|Medical Check Up|Scheduled
+APP-002|DOC-002|PAT-002|2024-07-02|08:00|09:00|Transportation issues|Rescheduled
+APP-003|DOC-003|PAT-003|2024-07-03|10:00|11:00|Family emergency|Cancelled
+APP-004|DOC-004|PAT-004|2024-07-03|10:00|11:00|Follow-up consultation|Scheduled
+APP-005|DOC-005|PAT-005|2024-07-09|14:00|14:30|Doctor unavailable|Cancelled

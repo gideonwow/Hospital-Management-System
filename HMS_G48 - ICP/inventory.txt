@@ -1,0 +1,12 @@
+I-001|Paracetamol Tablets|500|100|5000|10|ABC Pharmaceuticals
+I-002|Insulin|100|50|150|20|XYZ Medical Supplies
+I-003|Surgical Masks|2000|500|5000|5|PQR Healthcare
+I-004|Oxygen Cylinders|50|20|100|100|Oxygen Supplies Inc
+I-005|Amoxicillin Capsules|300|50|500|15|MediDrugs Corporation
+I-006|Bandages|1000|200|5000|3|Health Essentials Ltd
+I-007|Gauze Pads|800|100|2000|2|MediCare Supplies
+I-008|Disposable Gloves|5000|1000|10000|0.5|Safety Medical Supplies
+I-009|Blood Pressure Monitor|150|50|300|50|MediTech Solutions
+I-010|Stethoscope|200|50|500|30|MediTools International
+I-011|Digital Thermometer|400|100|1000|10|HealthTech Devices
+I-012|Wheelchair|50|10|100|300|Mobility Aid Solutions

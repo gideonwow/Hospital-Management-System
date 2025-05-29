@@ -1,0 +1,5 @@
+PAT-001|s12345|Steve Hal|2000-01-01|+601234562349|Parkhill Residence, Kuala Lumpur|Male|Asian|Single|Depression, Anxiety|None|Psychiatric Evaluation
+PAT-002|e12345|Emily Putra|2000-02-02|+60123454569|Parkhill Residence, Kuala Lumpur|Male|Asian|Single|Hypertension, Diabetes|None|MRI Brain Scan
+PAT-003|s12345|Sophia Tan|2000-03-03|+6012334789|Parkhill Residence, Kuala Lumpur|Female|Asian|Single|Depression|Alcohol|Psychiatric Evaluation
+PAT-004|j12345|James Lim|2000-04-04|+60127894567|Maple Villa, Penang|Male|Asian|Married|Asthma|Penicillin|Appendectomy
+PAT-005|l12345|Lisa Chen|2000-05-05|+60123456789|Bamboo Grove, Johor Bahru|Female|Asian|Single|Migraine, Insomnia|None|None
